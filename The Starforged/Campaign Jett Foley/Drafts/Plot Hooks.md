@@ -17,3 +17,5 @@
 - Did Jett meet anyone in prison on Koshiba
 - What happened to Sage Archer
 - What happened to the pilot of the Polestar ship on Pyla
+- What is Jett's history with Polestar
+- What is Jett's history with Althea
