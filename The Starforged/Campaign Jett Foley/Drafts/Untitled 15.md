@@ -45,3 +45,11 @@
 
 "Well, maybe the forensics team will pick up something you missed.  While we wait for their results, there's plenty to be done around here."
 
+`iv-dice:1d4|2`  `iv-oracle:Theme|33|Faction|oracle_rollable:starforged/core/theme` 
+
+"Faction," says the parrot.
+
+"Is that a real parrot?" asks Jett.
+
+"No, it's...well, it's a long story, let's just say it's temporary and leave it at that.  So, about this mission.  One of our researchers was on a routine survey and they never reported back in.  I want you to retrace their planned route and find them."
+
