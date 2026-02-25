@@ -39,3 +39,9 @@
 
 ---
 
+"So, are you ready to get back to work?" asks the director.
+
+"I don't know...it felt like I was on the trail of something big but it just led right back here," says Jett.  
+
+"Well, maybe the forensics team will pick up something you missed.  While we wait for their results, there's plenty to be done around here."
+
