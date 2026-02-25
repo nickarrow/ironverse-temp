@@ -7,16 +7,21 @@
 | Faction Projects     | Exert influence by means of monopoly over violence                                                                                                                                                                                                     |
 | Faction Quirks       | Widespread fascination with cybernetic augmentation, Anachronistic culture                                                                                                                                                                             |
 | Faction Rumors       | Many are believed to be addicted to replacing their flesh with metal, and regarding other humans as annoying pests, beyond even the casual cruelty of the Forge's wealthy, Supposedly invincible in a fight (they work hard to maintain that illusion) |
-(WIP)
-In every epoch of humanity, the rich have always needed enforcers.
+Throughout the domain of the Circle of the Elder Stars, any well-traveled spacer swiftly becomes acquainted with the sight of soldiers armoured like tanks, stamped with the rust-red insignia of a clenched gauntlet, for the Bannersworn of Household Serrato have maintained a long tradition of mercenary work across the Forge. 
 
-But perhaps their fixation with honour is rooted in compensation more than pride? For in the most secret records accessible only to the Warlord and select Clan-Heads, there lies a story.
 
-When the Exodus commenced, and the Ironhomes of the Founders fled into the dark, the one who would rule all the Milky Way took umbrage. Though the Tyrant was willing to burn the galaxy to ash if that is what it took to be its master, their hubris was so rancid that they would not tolerate any who would choose life over death or submission.
 
-When their dominion over the Milky Way was complete, when the Tyrant’s rampaging armies had no more frontiers to pillage and grew restless, they opted to kill two birds with one stone. Bleeding whole sectors into crushing poverty to cover the cost, a grand armada was constructed, and all but the most loyal armies were herded aboard to punish those who had just wanted to live.
+While undeniably possessed of a more warlike-streak than their contemporary in both nomenclature and expected behaviour, Household Serrato does largely conform to the conventional hierarchy of noble houses.
 
-The survivors among the betrayed, who fled bleeding into unknown stars before fracturing into a thousand and one pieces, became the Firestorm Clans.
+>Warlord (Grandmaster): The supreme leader of Household Serrato.
+>Clan-Head (Councilman):
+>Battlereeve (House Father/Mother):
+>Reaver-Chief(House Brother/Sister):
+>Ironsworn (House Cousin):
+>Kinsman:
+>Lawman
+>Bannersworn: 
+>Retainer
+>Hireling
 
-The betrayers, for they merely moved from serving one sadistic tyrant to a council of lesser selfish ones, joined together to form Household Serrato.
-
+Their main holdings are confined to the Crimson Deep Sector, located upon the periphery of the Circle’s territory in the Outlands, itself comprised of planets of such environmental extremes that even spacer-tech and an essentially unlimited budget can only make barely liveable.
