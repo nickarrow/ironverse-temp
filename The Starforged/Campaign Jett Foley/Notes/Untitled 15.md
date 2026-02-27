@@ -123,9 +123,9 @@ A couple of days later, Jett and Asha have their own small office and are offici
 
 "Well, we know they were after the pyramid, so if we can figure out what it is it will give us a clue what they're up to."
 
-"I tried that and the trail led back here."
+"I tried that and the trail led here."
 
-"Maybe you didn't look hard enough.  From what I you told me, you saw a Farpoint logo and dropped your investigation to come back here."
+"Maybe you didn't look hard enough.  From what you told me, you saw a Farpoint logo and dropped your investigation to come back here."
 
 "It felt like a solid lead at the time."
 
@@ -149,7 +149,7 @@ A couple of days later, Jett and Asha have their own small office and are offici
 
 "I don't carry a gun."
 
-"Jett, you kept it all this time when you could have gotten rid of it whenever you wanted; deep down you know you might need it someday so you might as well know how to use it."
+"Jett, you were given a gun and kept it all this time when you could have gotten rid of it whenever you wanted; deep down you know you might need it someday so you might as well know how to use it."
 
 "But...it was a gift, it has sentimental value."
 
