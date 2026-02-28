@@ -67,7 +67,7 @@
 
 "Maybe they're invaders from another sector?"
 
-"That's the logical conclusion, but they also don't act like pirates.  Pirates are after valuables - cargo and hostages.  The Ascendancy destroys ships indiscriminately - there's no profit in that."
+"That's the logical conclusion, but also they don't act like pirates.  Pirates are after valuables - cargo and hostages.  The Ascendancy destroys ships indiscriminately - there's no profit in that."
 
 "So you're saying they're not really pirates?" asks Jett.
 
@@ -75,7 +75,7 @@
 
 "Who's heading up the investigation?"
 
-"We don't have a formal investigation."
+"We don't have an investigation."
 
 "Well that should be your next move.  Gather every scrap of intel you can and try to find some kind of pattern."
 
@@ -97,7 +97,7 @@
 
 "You haven't heard what you'll be researching yet."
 
-"No, but it usually takes years to get your own team.  Plus, I know about you - you were created using magic which is my area of study.  The chance to study you would be fascinating."
+"No, but it usually takes years to get your own team.  Plus, I know about you - you were created using technology mixed with magic which is my area of study.  The chance to study you would be fascinating."
 
 "You wouldn't be studying me, you'd be researching the Ascendancy."
 
@@ -157,3 +157,94 @@ A couple of days later, Jett and Asha have their own small office and are offici
 
 ---
 
+A few days later, the forensics team returns, and the Director calls in Jett and Asha for a meeting.
+
+"The results are in.  The ship was The Nucleus, which has been missing for two years.  Total systems failure, cause unknown.  The pilot,  `iv-oracle:Given Name|35|Fletcher|oracle_rollable:starforged/character/name/given_name`  `iv-oracle:Family Name|35|Arden|oracle_rollable:starforged/character/name/family_name`, escaped in the escape pod but hasn't been heard from since.  We think he probably engaged the cryosleep function and is floating in space somewhere; he would have made contact if he had made it to a settlement.  There's plenty of other data of course, but since the incident predates the Ascendancy it's not relevant to your investigation," says the director.
+
+"Should we go and look for him?" asks Jett.
+
+"We have a team on it," says  the Director.
+
+"What about the pattern that Jett saw in the wrecks?  It led him straight to the Farpoint vessel," says Asha.
+
+"Nobody else can see it, we even had our forensic AI take a look and can find no connection between the wreck sites - they're just random crashes as far as anyone else can tell."
+
+"Well, the pattern must exist or Jett wouldn't have been drawn to the Nucleus.  What if there's a pattern to the Ascendancy attacks that Jett can discern that nobody else can?"
+
+"That's your department," says the Director.
+
+---
+
+Back in the office, Asha asks "So, Pyla, Reck, or pick a name from the list?"
+
+"Let's take a look at the list, maybe something will jump out at me," says Jett.
+
+`iv-move:Gather Information|Wits|6|3|0|2|6|move:starforged/adventure/gather_information` 
+
+Jett separates the list into three sublists - people, places, and ships.  "The places are going to be the easiest to find, but we won't know what to do once we're there.  The ships could be anywhere and will be constantly moving.  I think finding these people should be the top priority.  Do you recognize any of the names?"
+
+>Does Asha recognize any of the names?  `iv-oracle:50/50|16|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+
+"I know this one," she says, pointing to  `iv-oracle:Given Name|89|Tomiko|oracle_rollable:starforged/character/name/given_name`  `iv-oracle:Family Name|31|Kaan|oracle_rollable:starforged/character/name/family_name` .  "Tomiko Kaan is  `iv-oracle:Character Role|53|Miner|oracle_rollable:starforged/character/role` an asteroid miner."
+
+"How could you possibly know that?" asks Jett.
+
+"She dug up a relic from inside an asteroid.  I was supposed to buy it for Farpoint but she decided to keep it as an ornament instead."
+
+"Ok, let's go and find her.  I vow to investigate Tomiko Kaan's relic."
+
+`iv-move:Swear an Iron Vow|Heart|3|2|0|9|9|move:starforged/quest/swear_an_iron_vow`  `iv-track-create:15 - Find Tomiko's Relic|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/15 - Find Tomiko's Relic.md` 
+
+"One problem, chief.  She was planning to sell her claim and start over somewhere else, something about wanting a fresh start," says Asha.
+
+"You could have told me that before I made a vow."
+
+"It's fine, we'll just pick the next name from the list."
+
+"It's too late for that, I made the vow.  You can come with me or stay here looking at spreadsheets of ship attacks."
+
+"I'm coming, I'm coming."
+
+---
+
+Jett and Asha set off for Lodestar Station.  It's a large station near the asteroid belt where Tomiko used to work - miners sell their ore here, then it's refined in the foundries and sold to traders as bars and ingots of valuable resources.
+
+`iv-move:Set a Course|Supply|5|5|0|9|7|move:starforged/exploration/set_a_course` 
+
+They arrive at the station.  At first sight, it looks like the wreckage of a derelict dreadnought but on closer inspection it's a station built inside the enormous vessel.  Mining ships are coming and going, and trade vessels sit in dock.  The Irony comes in to dock, and Jett and Asha make their way onto the station.  Jett is carrying his gun for the first time - he is wearing it in a shoulder holster under his jacket and it feels uncomfortable.
+
+"So, you've been here before, right?  Where should we start looking?" asks Jett.
+
+"You ask around the locals, I'll go and try and speak to the station manager.  Let's meet back at the ship when we're done."
+
+Jett starts at the Miner's Alliance building.  He asks the clerk at the desk about Tomiko.
+
+`iv-move:Gather Information|Wits|4|3|0|5|7|move:starforged/adventure/gather_information`  `iv-meter:Momentum|5|6` 
+
+"Oh, I remember Tomiko.  I think she spent too long in space, she went a little bit loopy."
+
+"What did she do?" asks Jett.
+
+"Well, there's this rumor among miners that there's an exoplanet that's one giant diamond, cruising between the stars in the dark.  It's nonsense, of course, and even if it were true it would be impossible to find.  She was convinced that she knew where it was and sold her claim on the asteroid field here to go and chase it."
+
+"So if I wanted to find her...?"
+
+"Well, she can't be too far away, she comes back here to resupply her provisions and water every few months."
+
+"So if I don't want to wait months, I have to just hope to get lucky?"
+
+"Well, the rumors say that the last sighting of the exoplanet was when it passed a nearby star a few years ago, nonsense obviously but she's probably somewhere around there."
+
+---
+
+Later, back at the ship, Asha has come back empty handed - the manager doesn't keep track of individual miners.  Jett tells her about the exoplanet.
+
+"Are you sure you don't want to just give up on Tomiko and follow a different lead?" says Asha.
+
+"What are the odds that one of us would know one of the people on the list?  It can't be a coincidence, it has to be fate," replies Jett.  "Let's get started, she's not going to be easy to find."
+
+---
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session` 
+
+`iv-meter:Momentum|6|7` 

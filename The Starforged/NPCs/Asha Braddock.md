@@ -6,3 +6,4 @@
 Character Role: Researcher
 `iv-oracle:Character Goal|96|Forge an alliance, Action + Theme, Refute a falsehood, Escape a captor|oracle_rollable:starforged/character/goal`  `iv-oracle:Action|43|Explore|oracle_rollable:starforged/core/action`  `iv-oracle:Theme|87|Survival|oracle_rollable:starforged/core/theme` 
 
+Asha is Jett's companion - she is a junior researcher who was the only person willing to look into the Ascendancy for Jett.  She is also researching Jett as part of the deal.

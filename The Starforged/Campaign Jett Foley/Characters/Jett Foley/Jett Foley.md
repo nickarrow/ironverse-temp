@@ -2,7 +2,7 @@
 name: Jett Foley
 xp_spent: 5
 xp_added: 0
-momentum: 5
+momentum: 8
 edge: 2
 heart: 2
 iron: 1
@@ -64,6 +64,13 @@ assets:
       integrity/battered: false
     options:
       name: Exosuit
+  - id: asset:sundered_isles/deed/cohort
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
+    options: {}
 description: A youthful, scruffy man.  He wears simple spacer clothes.  He is curious and inquisitive.
 ---
 
