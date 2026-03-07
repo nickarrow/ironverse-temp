@@ -1,4 +1,4 @@
-# Welcome to the Ironverse test
+# Welcome to the Ironverse 2
 
 > A shared narrative universe for **Ironsworn**, **Starforged**, and **Sundered Isles** players
 
