@@ -129,7 +129,7 @@ The voice from Ground Control didn't seem too enthused about her request and she
 
 Echo followed the signage to the information desk, surprised enough to find one in a settlement as sparsely populated as this.
 Of course, when she opened the door to the small cubicle, it became clear that this was a mix between a tourist shop and a temple library of some kind, more than a real information desk.
-Her eyes caught on a few of the book (real, paper books, even) titles present, the most prominent one being about an apparently new, prophesied threat.
+Her eyes caught on a few of the book (real, paper books, even) titles present, the most prominent one being about an apparently prophesied threat soon to come.
 
 ```
 DESK ATTENDANT
