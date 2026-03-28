@@ -64,5 +64,3 @@ asdf
 
 `iv-noroll:Take a Break|move:starforged/session/take_a_break` 
 
-
-`iv-move:Enter the Fray|Shadow|4|1|0|10|5|move:starforged/combat/enter_the_fray` 
