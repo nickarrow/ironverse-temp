@@ -5,7 +5,7 @@ progress: 24
 tags:
   - complete
 track-type: Vow
-character: "[[The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md]]"
+character: "[[Jett Foley]]"
 iron-vault-kind: progress
 ---
 

@@ -5,7 +5,7 @@ progress: 16
 tags:
   - incomplete
 track-type: Connection
-character: "[[The Starforged/Characters/Jett Foley/Jett Foley.md]]"
+character: "[[Jett Foley]]"
 iron-vault-kind: progress
 ---
 

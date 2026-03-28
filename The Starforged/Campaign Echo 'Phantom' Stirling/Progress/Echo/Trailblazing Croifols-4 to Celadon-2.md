@@ -5,7 +5,7 @@ progress: 12
 tags:
   - incomplete
 track-type: Expedition
-character: "[[The Starforged/Campaign Echo 'Phantom' Stirling/Characters/Echo 'Phantom' Stirling.md]]"
+character: "[[Echo 'Phantom' Stirling]]"
 iron-vault-kind: progress
 ---
 

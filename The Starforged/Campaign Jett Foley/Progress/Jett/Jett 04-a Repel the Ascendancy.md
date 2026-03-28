@@ -5,7 +5,7 @@ progress: 40
 tags:
   - complete
 track-type: Combat
-character: "[[The Starforged/Characters/Jett Foley/Jett Foley.md]]"
+character: "[[Jett Foley]]"
 iron-vault-kind: progress
 ---
 

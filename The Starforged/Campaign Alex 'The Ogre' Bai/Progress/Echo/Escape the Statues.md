@@ -5,7 +5,7 @@ progress: 0
 tags:
   - complete
 track-type: Combat
-character: "[[The Starforged/Characters/Echo 'Phantom' Stirling/Echo 'Phantom' Stirling.md]]"
+character: "[[Echo 'Phantom' Stirling]]"
 iron-vault-kind: progress
 ---
 

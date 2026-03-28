@@ -5,7 +5,7 @@ progress: 40
 tags:
   - complete
 track-type: Expedition
-character: "[[The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md]]"
+character: "[[Jett Foley]]"
 iron-vault-kind: progress
 ---
 

@@ -5,7 +5,7 @@ progress: 0
 tags:
   - incomplete
 track-type: Connection
-character: "[[The Starforged/Characters/Echo 'Phantom' Stirling/Echo 'Phantom' Stirling.md]]"
+character: "[[Echo 'Phantom' Stirling]]"
 iron-vault-kind: progress
 ---
 
