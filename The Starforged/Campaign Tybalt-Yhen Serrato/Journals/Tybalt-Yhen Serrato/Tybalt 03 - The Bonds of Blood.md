@@ -42,7 +42,7 @@ And right then, Tybalt puts a hand on the barrel and forces it down, and the liz
 
 "Have you noticed the Risen Union showing up more and more lately? There's nothing special at first glance, just another conglomerate charging whole limbs for their goods, in their case mass-produced goods. Even having whole production lines of *gunpowder munitions* fit only for hardscrabble colonist militias.
 
-This, of course, is a farce. The real heart of the group, whether it was always there or just hollowed out an existing group fit for purpose, are infobrokers. Spies and the like, who seem very good at their job. Why, they've managed the *good fortune* of steering clear of any sort of trouble from the Ascendancy, and so their star is in ascendance here in Port Koshiba and beyond. This one was merely a chess piece moved by their hand, who got his ambitions stoked by a sizeable payout and the potential fame of taking the head of a Serrato captain.”
+This, of course, is a farce. The real heart of the group, whether it was always there or just hollowed out an existing group fit for purpose, are infobrokers. Spies and the like, who seem very good at their job. Why, they've managed the *good fortune* of steering clear of any sort of trouble from the Ascendancy, and so their star is in ascendance here in Port Koshiba and beyond. This one was merely a chess piece moved by their hand, who got his ambitions stoked by a sizeable payout and the potential fame of taking the head of a Serrato House-Brother.”
 
 “And we're supposed to just believe you?" Paxel interjects, waving his gun at the reanimated corpse in flagrant violation of gun safety, and Tybalt nods in the scavenger's direction
 
@@ -105,7 +105,7 @@ Tybalt asserts his right of command to move to the next file despite Paxel’s c
 
 Tybalt was…not sure how to feel. So like some ancient wayfarer seeking to find the cardinal directions by the position of the stars, he attempts to orient himself by measuring against Paxel.
 
-Sure enough, the mutant was mostly mortified by the display of violence, even if a lingering interest signalled that his lieutenant’s ogling tendencies remained among his strongest.
+Sure enough, the mutant was mostly mortified by the display of violence.
 
 A comparison point found, Tybalt could more easily come to a conclusion.
 
@@ -115,7 +115,7 @@ He was besotted.
 
 “Ah yes, she had decided that a good use of her time was to reveal how to jailbreak the operating systems of agricultural equipment in an entire sector, and so she needed to get a look at their most guarded data.”
 
-“*Whose daughter is she?*” Is all Tybalt asks in response to that. Because what was just said would be deemed reasonable cause by a Terminus corporation to raze a planet to the bedrock if it would preserve their control over their secrets. The only thing that could stop them being the *absolute backing* of someone more powerful.
+“*...Whose daughter is she?*” Is all Tybalt asks in response to that. Because what was just said would be deemed reasonable cause by a Terminus corporation to raze a planet to the bedrock if it would preserve their control over their secrets. The only thing that could stop them being the *absolute backing* of someone vastly more powerful.
 
 “A beloved one. Her eccentricities are indulged for excelling in the sciences.”
 
@@ -125,4 +125,43 @@ The corpse smiles, and answers without the slightest shred of humour. “All of 
 
 Paxel, at this moment finally releases a horrified breath at seeing a female version of his boss to look at said man, and so he sees Tybalt just as flabbergasted as when he heard his father’s corpse might have been stolen.
 
-“You are telling me the heir of a *sitting Noble House of the Conclave* is slumming it in the Expanse? Ackriss-2 has no known Precursor ruins, there is no reason to be personally present there! And after what you just said of my father, there is not a more tempting target for the Ascendancy!”
+“You are telling me the heir of a *sitting Councilor of the Conclave* is slumming it in the Expanse? And...do you suspect the pirates know?”
+
+"Shall I monitor the situation to find out for certain?" Is the rhetorical answer to Tybalt's question. "No, I shall be comfortable with killing them before they can think of doing so. She is, of course, guarded already, but what is forming in Devil's Chain is no mere scrap-bandit coalition. And-" The face of the corpse slackens strangely, and the following words grow garbled until the end is little more than the death rattle of a corpse. "Our time runs short. Decimate the Risen Union presence here then make for Reck without delayyyy-" 
+
+When the body collapses dead, and moves no longer. Paxel is the one to break the new silence with his characteristic 'eloquence'. "Tybalt, what in my fucking ass warts was that? That was a *dead body* and someone was tal-talking through-"
+
+"The Ironhome of Lost Light offers the services of those that can manipulate the dead to those whose coin is most handsome, but I don't try to learn more. It *does* bother me too." Tybalt answers as he reorients his thoughts back to war. "But we must not tarry any longer, it seems there is vengeance I am long overdue in exacting."
+
+KAAL-KAAZ
+ARMORY
+
+`iv-move:Compel|Heart|2|2|1|1|5|move:starforged/adventure/compel|adds=1(Connection)` *"What do you mean you are marching into the Oldtown?"* Epathus' voice was laced with static from the interference of Audun's perennial static-storms, but his annoyance shone through. *"If this is a vengeance raid for that attempt on your life I understand, those silken sots were already annoying. but you yourself have acknowledged that we must hurry before the trail goes cold. And the ships have been tuned-up, we can leave now."*
+
+"I-" Tybalt begins awkwardly, struggling to think of what to say about his recent encounter without being declared a lunatic. "So all your men are assembled?"
+
+*"Obviously. Dal-Karus of all souls surprised me with his diligence, he was already present at the starport when I checked in the morning. He should be..."* Epathus' voice trails off, for far longer than it should take him to skim through his roster of bannersworn. Then came a sigh of long suffering.
+
+"Epathus?"
+
+*"His current location is a gnat of a ship broadcasting Courier Guild markers, which I am currently watching ascend to orbit from where I saw him in the morning. I think his warplate is stowed in its storage bay, judging by where his locator blip is on that ship. We saw him leave the cantina with some woman"* Tybalt hears the words through gritted teeth
+
+"Dal-Karus, seducing a woman? *Dal-Karus?*" Tybalt could not believe what he was hearing.
+
+"The other way around."
+
+"Did she...look like a masochist?"
+
+"Tybalt, how are you supposed to 'look' like a masochist?" Paxel chimed in unhelpfully
+
+*"I suspect she was already drunk as he was by the time she started propositioning him.*" 
+
+"Dal-Karus input aside, why did you let him traipse off with her?"
+
+*"We...thought it would improve his attitude."*
+
+"Was she hot?"
+
+"Shut up, Paxel"
+*"Shut up, Paxel"*
+
