@@ -1,4 +1,4 @@
-# Welcome to the Ironverseffff
+# Welcome to the Ironverse
 
 > A shared narrative universe for **Ironsworn**, **Starforged**, and **Sundered Isles** players
 
