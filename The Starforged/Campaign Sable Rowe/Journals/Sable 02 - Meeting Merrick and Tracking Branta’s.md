@@ -1,6 +1,6 @@
 
 ```
-Remembering where girly pop is here. Looks like we need to finish up this journey and get to wherever she's going.
+Remembering where girly pop is here. Looks like we need to finish up this journey and get to where she's going.
 
 Let's begin
 ```
