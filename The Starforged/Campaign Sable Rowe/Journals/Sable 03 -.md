@@ -28,3 +28,13 @@ The line was quiet for a half a minute before a radio sound finally broke the si
 "I apologize—for the uhm, shot. Don't get much people out here and with pirates running about, well you know."
 
 "You're pretty far out here yourself." Sable called back, by this time Tiny Sana had calmed and nestled against the ship. "Is it just you?"
+
+"Yep," The finality of his statement made Sable feel like whatever reason he was out here was more of a punishment than a privilege.
+
+"Well, don't mind me, just letting my e-drive charge up before I move on."
+
+"You got any food? Something other then standard rations."
+
+"Uh, yeah. Do you not have enough?"
+
+"No, I have enough, but eating the same bland slop for as long as I have is starting to make me go crazy." There was something about his voice that made Sable cautious. He didn't sound crazy, or cruel, but his tone made him sound hesitant, fearful, like he was waiting for
