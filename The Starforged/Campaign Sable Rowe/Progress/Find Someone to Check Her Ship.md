@@ -1,7 +1,7 @@
 ---
 name: (Ex) Find Someone to Check Her Ship
 rank: dangerous
-progress: 16
+progress: 32
 tags:
   - incomplete
 track-type: Expedition
