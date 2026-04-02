@@ -1,6 +1,7 @@
+
 `iv-noroll:Begin a Session|move:starforged/session/begin_a_session`  `iv-oracle:Begin a Session|18|Flashback reveals an aspect of another character, place, or faction|move.oracle_rollable:starforged/session/begin_a_session.begin_a_session`  `iv-meter:Momentum|8|9`   `iv-oracle:Action|90|Summon|oracle_rollable:ancient_wonders/core_oracles/action`  `iv-oracle:Theme|46|Hope|oracle_rollable:ancient_wonders/core_oracles/theme` 
 
-Leela pouted with the largest pathetic eyes she could muster. Her bottom lip popped out, her hands clasped together. Should be on her knees in a pathetic beg is the camera tilted down that far.
+Leela pouted with the largest pathetic eyes she could muster. Her bottom lip popped out, her hands clasped together. She would have been on her knees in a pathetic beg if the camera tilted down that far.
 
 "You look like an idiot."
 
@@ -12,7 +13,7 @@ Leela pouted with the largest pathetic eyes she could muster. Her bottom lip pop
 
 "Fine, what is it?" He conceded.
 
-Leela spent the next several minutes explaining to her brother—who was a space life conservationist—about the infant branta. He explained to her there wasn't anything he could do, Sable was too far away and he would be nowhere near that sector. He would send her what he had, but he knew very little about the migration patterns for branta in that area. Any help would be help enough, as the little thing was slowing down her work in the area. 
+Leela spent the next several minutes explaining to her brother—who was a space life conservationist—about the infant branta. He explained to her there wasn't anything he could do, Sable was too far away and he would be nowhere near that sector. He would send her what he had, but he knew very little about the migration patterns for branta in that area. Leela assured him any help would be help enough, as the little thing was slowing down her work in the area. 
 
 So Leela gathered up the data from her brother and sent it Sable. Who wanted to get mad at her for sharing what was up, but thought better of it. The data didn't do much for her, but he had also sent over several recordings of branta calls. This would make it easier for Sable to guide Tiny Sana. At least it was something.
 
