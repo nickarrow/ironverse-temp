@@ -146,7 +146,7 @@ ARMORY
 
 *"His current location is a gnat of a ship broadcasting Courier Guild markers, which I am currently watching ascend to orbit from where I saw him in the morning. I think his warplate is stowed in its storage bay, judging by where his locator blip is on that ship. We saw him leave the cantina with some woman"* Tybalt hears the words through gritted teeth
 
-"Dal-Karus, seducing a woman? *Dal-Karus?*" Tybalt could not believe what he was hearing.
+"Dal-Karus. Seducing a woman. *Dal-Karus.*" Tybalt enunciated to emphasize his disbelief.
 
 "The other way around."
 
