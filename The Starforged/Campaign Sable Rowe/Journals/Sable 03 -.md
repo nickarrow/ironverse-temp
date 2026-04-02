@@ -37,4 +37,5 @@ The line was quiet for a half a minute before a radio sound finally broke the si
 
 "Uh, yeah. Do you not have enough?"
 
-"No, I have enough, but eating the same bland slop for as long as I have is starting to make me go crazy." There was something about his voice that made Sable cautious. He didn't sound crazy, or cruel, but his tone made him sound hesitant, fearful, like he was waiting for
+"No, I have enough, but eating the same bland slop for as long as I have is starting to make me go crazy." There was something about his voice that made Sable cautious. He didn't sound crazy, or cruel, but his tone made him sound hesitant, perhaps even fearful.
+
