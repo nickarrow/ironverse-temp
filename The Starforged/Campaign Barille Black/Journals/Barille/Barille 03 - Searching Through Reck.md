@@ -62,5 +62,4 @@ Barille collects himself, then stands back up and heads off.  `iv-move:Undertake
 
 `iv-noroll:Take a Break|move:starforged/session/take_a_break` 
 
-`iv-move:Enter the Fray|Edge|1|1|0|7|2|move:starforged/combat/enter_the_fray` 
 
