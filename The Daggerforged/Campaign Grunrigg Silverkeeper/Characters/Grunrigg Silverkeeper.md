@@ -3,11 +3,11 @@ name: Grunrigg Silverkeeper
 xp_spent: 0
 xp_added: 0
 momentum: 2
-edge: 0
-heart: 0
-iron: 0
-shadow: 0
-wits: 0
+edge: 1
+heart: 3
+iron: 2
+shadow: 1
+wits: 2
 health: 5
 spirit: 5
 supply: 5
@@ -20,7 +20,22 @@ Quests_XPEarned: 0
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
 iron-vault-kind: character
-
+assets:
+  - id: asset:starforged/path/bannersworn
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
+    options:
+      ideology: Guardian
+  - id: asset:starforged/path/slayer
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
+    options: {}
 ---
 
 
