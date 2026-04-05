@@ -1,0 +1,139 @@
+---
+_id: daggerforged
+datasworn_version: "0.1.0"
+type: expansion
+ruleset: starforged
+<<: &Source
+  date: 2025-01-01
+  title: Daggerforged
+  url: https://github.com/daggerforged
+  license: https://creativecommons.org/licenses/by-nc-sa/4.0
+  authors:
+    - name: Daggerforged Community
+assets:
+  ancestries:
+    name: Ancestry Assets
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      dwarf:
+        name: Dwarf
+        type: asset
+        category: Ancestry
+        _source:
+          <<: *Source
+        abilities:
+          - name: Thick Skin
+            enabled: false
+            text: >-
+              _Thick Skin:_ When you would suffer harm, you can suffer -2 Spirit to ignore it entirely.
+          - name: Increased Fortitude
+            enabled: false
+            text: >-
+              _Increased Fortitude:_ Spend 3 Hope to reduce incoming physical harm by half (round up).
+      ribbet:
+        name: Ribbet
+        type: asset
+        category: Ancestry
+        _source:
+          <<: *Source
+        abilities:
+          - name: Amphibious
+            enabled: false
+            text: >-
+              _Amphibious:_ You can breathe and move naturally underwater.
+          - name: Long Tongue
+            enabled: false
+            text: >-
+              _Long Tongue:_ You can use your long tongue to grab onto things within close range. Suffer -1 Spirit to lash out with your tongue as a weapon—roll +Edge. On a strong hit, mark progress twice. On a weak hit, mark progress but you are put in a bad spot. On a miss, Pay the Price.
+
+  classes:
+    name: Class Assets
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      guardian:
+        name: Guardian
+        type: asset
+        category: Class
+        _source:
+          <<: *Source
+        requirement: "Domains: Valor & Blade.\nSubclasses: Stalwart, Vengeance."
+        abilities:
+          - name: Frontline Tank
+            enabled: true
+            text: >-
+              _Frontline Tank:_ Spend 3 Hope to immediately restore 2 health or clear the Wounded impact.
+          - name: Unstoppable
+            enabled: true
+            text: >-
+              _Unstoppable:_ Once per session, you can become Unstoppable until the scene ends. While Unstoppable: Reduce all harm you suffer by 1 (minimum 0). When you Strike or Clash and mark progress, take +1 momentum. You cannot be physically moved, restrained, or knocked prone against your will.
+
+  communities:
+    name: Community Assets
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      underborne:
+        name: Underborne
+        type: asset
+        category: Community
+        _source:
+          <<: *Source
+        abilities:
+          - name: Low-Light Living
+            enabled: true
+            text: >-
+              _Low-Light Living:_ When you're in an area with low light or heavy shadow, add +2 to rolls to hide, investigate, or perceive details within that area.
+          - name: Earn Hope
+            enabled: true
+            text: >-
+              _Earn Hope:_ On any action roll, if your action die shows 4, 5, or 6, gain +1 Hope (max 6). On a progress roll, if you have 6+ boxes filled, gain +1 Hope. On a matched strong hit, gain +2 Hope instead.
+        controls:
+          hope:
+            label: hope
+            field_type: condition_meter
+            max: 6
+            value: 2
+
+  subclasses:
+    name: Subclass Assets
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      stalwart:
+        name: Stalwart
+        type: asset
+        category: Subclass
+        _source:
+          <<: *Source
+        requirement: "Requires: Guardian"
+        abilities:
+          - name: "Foundation: Unwavering"
+            enabled: true
+            text: >-
+              [Foundation] _Unwavering:_ Reduce all harm you suffer by 1 (minimum 1).
+          - name: "Foundation: Iron Will"
+            enabled: true
+            text: >-
+              [Foundation] _Iron Will:_ When you suffer physical harm, you may suffer -1 supply to reduce the harm by 1 additional point.
+          - name: "Specialization: Unrelenting"
+            enabled: false
+            text: >-
+              [Specialization] _Unrelenting:_ Increase your harm reduction from Unwavering to 2 (minimum 1).
+          - name: "Specialization: Partners-in-Arms"
+            enabled: false
+            text: >-
+              [Specialization] _Partners-in-Arms:_ When an ally within close quarters suffers harm, you may suffer -1 supply to reduce their harm by 1.
+          - name: "Mastery: Undaunted"
+            enabled: false
+            text: >-
+              [Mastery] _Undaunted:_ Increase your harm reduction from Unwavering to 3 (minimum 1).
+          - name: "Mastery: Loyal Protector"
+            enabled: false
+            text: >-
+              [Mastery] _Loyal Protector:_ When an ally you can see has 2 or fewer health and would suffer harm, you may suffer -1 Spirit to rush to their side and suffer the harm instead.
