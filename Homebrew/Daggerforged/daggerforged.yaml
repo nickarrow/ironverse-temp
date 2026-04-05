@@ -137,3 +137,201 @@ assets:
             enabled: false
             text: >-
               [Mastery] _Loyal Protector:_ When an ally you can see has 2 or fewer health and would suffer harm, you may suffer -1 Spirit to rush to their side and suffer the harm instead.
+
+  blade_l1:
+    name: "Blade Domain (Level 1) - Guardian, Warrior"
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      get_back_up:
+        name: Get Back Up
+        type: asset
+        category: "Blade L1"
+        _source:
+          <<: *Source
+        requirement: "Blade Domain\nRecall: 1 momentum"
+        abilities:
+          - name: Get Back Up
+            enabled: true
+            text: >-
+              _Get Back Up:_ When you would suffer major harm (3+), you can suffer -1 Spirit to reduce the harm by 1.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+      not_good_enough:
+        name: Not Good Enough
+        type: asset
+        category: "Blade L1"
+        _source:
+          <<: *Source
+        requirement: "Blade Domain\nRecall: 1 momentum"
+        abilities:
+          - name: Not Good Enough
+            enabled: true
+            text: >-
+              _Not Good Enough:_ When you Strike or Clash and score a weak hit, you may reroll your action die.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+      whirlwind:
+        name: Whirlwind
+        type: asset
+        category: "Blade L1"
+        _source:
+          <<: *Source
+        requirement: "Blade Domain\nRecall: 0 momentum"
+        abilities:
+          - name: Whirlwind
+            enabled: true
+            text: >-
+              _Whirlwind:_ When you Strike or Clash in close quarters and score a hit, you can spend 1 Hope to mark progress an additional time (representing hitting multiple foes).
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+
+  valor_l1:
+    name: "Valor Domain (Level 1) - Guardian, Seraph"
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      bare_bones:
+        name: Bare Bones
+        type: asset
+        category: "Valor L1"
+        _source:
+          <<: *Source
+        requirement: "Valor Domain\nRecall: 0 momentum"
+        abilities:
+          - name: Bare Bones
+            enabled: true
+            text: >-
+              _Bare Bones:_ When you choose not to wear armor, add +1 when you React Under Fire against physical attacks.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+      forceful_push:
+        name: Forceful Push
+        type: asset
+        category: "Valor L1"
+        _source:
+          <<: *Source
+        requirement: "Valor Domain\nRecall: 0 momentum"
+        abilities:
+          - name: Forceful Push
+            enabled: true
+            text: >-
+              _Forceful Push:_ When you Strike in close quarters, on a hit you knock your target back and they are put in a bad spot. You may spend 1 Hope to mark progress an additional time.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+      i_am_your_shield:
+        name: I Am Your Shield
+        type: asset
+        category: "Valor L1"
+        _source:
+          <<: *Source
+        requirement: "Valor Domain\nRecall: 1 momentum"
+        abilities:
+          - name: I Am Your Shield
+            enabled: true
+            text: >-
+              _I Am Your Shield:_ When an ally within close quarters would suffer harm, you can suffer -1 Spirit to intercept the attack and suffer the harm instead. You may reduce this harm by 1.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+
+  blade_l2:
+    name: "Blade Domain (Level 2) - Guardian, Warrior"
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      a_soldiers_bond:
+        name: A Soldier's Bond
+        type: asset
+        category: "Blade L2"
+        _source:
+          <<: *Source
+        requirement: "Blade Domain\nRecall: 1 momentum\nRequires: Own at least one L1 Blade ability"
+        abilities:
+          - name: A Soldier's Bond
+            enabled: true
+            text: >-
+              _A Soldier's Bond:_ Once per session, when you compliment someone or ask them about something they're good at, you both gain 3 Hope.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+      reckless:
+        name: Reckless
+        type: asset
+        category: "Blade L2"
+        _source:
+          <<: *Source
+        requirement: "Blade Domain\nRecall: 1 momentum\nRequires: Own at least one L1 Blade ability"
+        abilities:
+          - name: Reckless
+            enabled: true
+            text: >-
+              _Reckless:_ Suffer -1 Spirit to add +2 on your next Strike or Clash.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+
+  valor_l2:
+    name: "Valor Domain (Level 2) - Guardian, Seraph"
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      body_basher:
+        name: Body Basher
+        type: asset
+        category: "Valor L2"
+        _source:
+          <<: *Source
+        requirement: "Valor Domain\nRecall: 1 momentum\nRequires: Own at least one L1 Valor ability"
+        abilities:
+          - name: Body Basher
+            enabled: true
+            text: >-
+              _Body Basher:_ When you Strike in close quarters using your full body force, add +1 and take +1 momentum on a hit.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+      bold_presence:
+        name: Bold Presence
+        type: asset
+        category: "Valor L2"
+        _source:
+          <<: *Source
+        requirement: "Valor Domain\nRecall: 0 momentum\nRequires: Own at least one L1 Valor ability"
+        abilities:
+          - name: Bold Presence
+            enabled: true
+            text: >-
+              _Bold Presence:_ When you Compel or make a social move, you may spend 1 Hope to add +Iron instead of the usual stat. Once per scene, when you would suffer a negative condition, describe how your bold presence aids you and ignore the condition.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false

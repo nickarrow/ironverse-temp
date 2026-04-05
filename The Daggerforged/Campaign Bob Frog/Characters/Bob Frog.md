@@ -50,6 +50,24 @@ assets:
       - false
     controls: {}
     options: {}
+  - id: asset:daggerforged/blade_l1/not_good_enough
+    abilities:
+      - true
+    controls:
+      loadout: true
+    options: {}
+  - id: asset:daggerforged/valor_l1/bare_bones
+    abilities:
+      - true
+    controls:
+      loadout: true
+    options: {}
+  - id: asset:daggerforged/blade_l2/a_soldiers_bond
+    abilities:
+      - true
+    controls:
+      active: true
+    options: {}
 ---
 	
 
