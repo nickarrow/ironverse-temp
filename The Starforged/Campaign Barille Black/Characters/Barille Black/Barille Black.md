@@ -2,13 +2,13 @@
 name: Barille Black
 xp_spent: 0
 xp_added: 0
-momentum: 3
+momentum: 1
 edge: 1
 heart: 3
 iron: 2
 shadow: 1
 wits: 2
-health: 3
+health: 1
 spirit: 3
 supply: 5
 Quests_Progress: 0
@@ -46,6 +46,7 @@ assets:
     options: {}
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
+initiative: false
 ---
 ![[barille black profile.png|center|100]] 
 
