@@ -1,7 +1,7 @@
 ---
 name: Investigate and report on the rumored horrors of Reck
 rank: formidable
-progress: 12
+progress: 20
 tags:
   - incomplete
 track-type: Vow

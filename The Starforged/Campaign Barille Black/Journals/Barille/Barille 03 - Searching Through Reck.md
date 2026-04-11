@@ -58,14 +58,8 @@ Suit yourself kid. See you round.
 
 > Barille staggers back to the less rubble strewn corridor and lays flat on his back. He check's his hand terminal, and gets an isotope ping.
 
-Barille collects himself, then stands back up and heads off.  `iv-move:Undertake an Expedition|Wits|1|2|0|10|4|move:starforged/exploration/undertake_an_expedition` 
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-track-advance:Track the other-world entity to its source|The Starforged/Campaign Barille Black/Progress/Barille/Track the other-world entity to its source.md|8|16|dangerous|1`  `iv-ooc:I forgot to mark progress way back when for the initial space battle. So, being kind to myself and givng a bit of progress for it. `  `iv-track-advance:Investigate and report on the rumored horrors of Reck|The Starforged/Campaign Barille Black/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|12|20|formidable|2` 
 
-`iv-noroll:Take a Break|move:starforged/session/take_a_break` 
-
-
-
-
-Note to self - new notetaking process:
-1. Just
+Picking this up in the next journal [[Barille 04 - Name TBD]] 
 
 

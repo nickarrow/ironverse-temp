@@ -1,7 +1,7 @@
 ---
 name: Track the other-world entity to its source
 rank: dangerous
-progress: 8
+progress: 16
 tags:
   - incomplete
 track-type: Expedition
