@@ -63,3 +63,9 @@ Barille collects himself, then stands back up and heads off.  `iv-move:Undertake
 `iv-noroll:Take a Break|move:starforged/session/take_a_break` 
 
 
+
+
+Note to self - new notetaking process:
+1. Just
+
+

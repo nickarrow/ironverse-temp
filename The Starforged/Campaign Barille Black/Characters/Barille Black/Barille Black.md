@@ -65,7 +65,7 @@ FailureTrack_XPEarned: 0
 > [!in-progress]- TRACKS IN-PROGRESS
 > ```dataview
 > TABLE WITHOUT ID file.link as "Vows"
-> FROM #incomplete 
+> FROM "The Starforged/Campaign Barille Black/Progress/Barille" and #incomplete
 > WHERE track-type = "Vow"
 > WHERE character = [[Barille Black]]
 > SORT file.mtime DESC
@@ -73,7 +73,7 @@ FailureTrack_XPEarned: 0
 > 
 > ```dataview
 > TABLE WITHOUT ID file.link as "Tracks"
-> FROM #incomplete
+> FROM "The Starforged/Campaign Barille Black/Progress/Barille" and #incomplete
 > WHERE track-type != "Vow"
 > WHERE track-type != "Connection"
 > WHERE iron-vault-kind != "clock"
@@ -84,6 +84,7 @@ FailureTrack_XPEarned: 0
 > [!bonds]- BONDS
 > ```dataview
 > TABLE WITHOUT ID file.link as "Bonds"
+> FROM "The Starforged/Campaign Barille Black/Progress/Barille" and #incomplete
 > WHERE track-type = "Connection"
 > WHERE character = [[Barille Black]]
 > SORT file.mtime DESC
@@ -100,7 +101,7 @@ FailureTrack_XPEarned: 0
 > [!complete]- TRACKS COMPLETED
 > ```dataview
 > TABLE WITHOUT ID file.link as "Vows"
-> FROM #complete
+> FROM "The Starforged/Campaign Barille Black/Progress/Barille" and #complete
 > WHERE track-type = "Vow"
 > WHERE character = [[Barille Black]]
 > SORT file.mtime DESC
@@ -108,7 +109,7 @@ FailureTrack_XPEarned: 0
 > 
 > ```dataview
 > TABLE WITHOUT ID file.link as "Tracks"
-> FROM #complete
+> FROM "The Starforged/Campaign Barille Black/Progress/Barille" and #complete
 > WHERE track-type != "Vow"
 > WHERE track-type != "Connection"
 > WHERE iron-vault-kind != "clock"
