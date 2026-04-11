@@ -21,6 +21,12 @@ FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
 iron-vault-kind: character
 assets:
+  - id: asset:daggerforged/classes/guardian
+    abilities:
+      - true
+      - true
+    controls: {}
+    options: {}
   - id: asset:daggerforged/ancestries/ribbet
     abilities:
       - true
@@ -32,25 +38,19 @@ assets:
       - true
       - true
     controls:
-      hope: 0
-    options: {}
-  - id: asset:daggerforged/classes/guardian
-    abilities:
-      - true
-      - true
-    controls: {}
+      hope: 2
     options: {}
   - id: asset:daggerforged/subclasses/stalwart
     abilities:
       - true
-      - true
+      - false
       - false
       - false
       - false
       - false
     controls: {}
     options: {}
-  - id: asset:daggerforged/blade_l1/not_good_enough
+  - id: asset:daggerforged/blade_l2/a_soldiers_bond
     abilities:
       - true
     controls:
@@ -62,11 +62,11 @@ assets:
     controls:
       loadout: true
     options: {}
-  - id: asset:daggerforged/blade_l2/a_soldiers_bond
+  - id: asset:daggerforged/blade_l1/not_good_enough
     abilities:
       - true
     controls:
-      loadout: false
+      loadout: true
     options: {}
 ---
 	
