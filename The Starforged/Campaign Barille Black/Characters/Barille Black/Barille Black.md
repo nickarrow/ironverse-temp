@@ -49,6 +49,9 @@ FailureTrack_XPEarned: 0
 ---
 ![[barille black profile.png|center|100]] 
 
+```iron-vault-character-stats
+```
+
 ```iron-vault-character-meters
 ```
 > [!assets]- ASSETS
