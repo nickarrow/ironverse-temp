@@ -14,7 +14,10 @@ supply: 5
 Bonds_Progress: 0
 Bonds_XPEarned: 0
 iron-vault-kind: character
-
+pronouns: He / Him
+callsign: Colrum
+description: "No more than twenty winters, the blonde haired waif seems to be frail. Looks however can be deceiving at best. "
+player: DanTen66
 ---
 
 

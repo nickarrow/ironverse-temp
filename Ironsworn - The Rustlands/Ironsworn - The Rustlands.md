@@ -1,5 +1,5 @@
 ---
-name: Ironsworn-Colrum
+name: Ironsworn - The Rustlands
 ironvault:
   playset:
     type: registry
