@@ -1,0 +1,337 @@
+---
+_id: daggerforged
+datasworn_version: "0.1.0"
+type: expansion
+ruleset: starforged
+<<: &Source
+  date: 2025-01-01
+  title: Daggerforged
+  url: https://github.com/daggerforged
+  license: https://creativecommons.org/licenses/by-nc-sa/4.0
+  authors:
+    - name: Daggerforged Community
+assets:
+  ancestries:
+    name: Ancestry Assets
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      dwarf:
+        name: Dwarf
+        type: asset
+        category: Ancestry
+        _source:
+          <<: *Source
+        abilities:
+          - name: Thick Skin
+            enabled: false
+            text: >-
+              _Thick Skin:_ When you would suffer harm, you can suffer -2 Spirit to ignore it entirely.
+          - name: Increased Fortitude
+            enabled: false
+            text: >-
+              _Increased Fortitude:_ Spend 3 Hope to reduce incoming physical harm by half (round up).
+      ribbet:
+        name: Ribbet
+        type: asset
+        category: Ancestry
+        _source:
+          <<: *Source
+        abilities:
+          - name: Amphibious
+            enabled: false
+            text: >-
+              _Amphibious:_ You can breathe and move naturally underwater.
+          - name: Long Tongue
+            enabled: false
+            text: >-
+              _Long Tongue:_ You can use your long tongue to grab onto things within close range. Suffer -1 Spirit to lash out with your tongue as a weapon—roll +Edge. On a strong hit, mark progress twice. On a weak hit, mark progress but you are put in a bad spot. On a miss, Pay the Price.
+
+  classes:
+    name: Class Assets
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      guardian:
+        name: Guardian
+        type: asset
+        category: Class
+        _source:
+          <<: *Source
+        requirement: "Domains: Valor & Blade.\nSubclasses: Stalwart, Vengeance."
+        abilities:
+          - name: Frontline Tank
+            enabled: true
+            text: >-
+              _Frontline Tank:_ Spend 3 Hope to immediately restore 2 health or clear the Wounded impact.
+          - name: Unstoppable
+            enabled: true
+            text: >-
+              _Unstoppable:_ Once per session, you can become Unstoppable until the scene ends. While Unstoppable: Reduce all harm you suffer by 1 (minimum 0). When you Strike or Clash and mark progress, take +1 momentum. You cannot be physically moved, restrained, or knocked prone against your will.
+
+  communities:
+    name: Community Assets
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      underborne:
+        name: Underborne
+        type: asset
+        category: Community
+        _source:
+          <<: *Source
+        abilities:
+          - name: Low-Light Living
+            enabled: true
+            text: >-
+              _Low-Light Living:_ When you're in an area with low light or heavy shadow, add +2 to rolls to hide, investigate, or perceive details within that area.
+          - name: Earn Hope
+            enabled: true
+            text: >-
+              _Earn Hope:_ On any action roll, if your action die shows 4, 5, or 6, gain +1 Hope (max 6). On a progress roll, if you have 6+ boxes filled, gain +1 Hope. On a matched strong hit, gain +2 Hope instead.
+        controls:
+          hope:
+            label: hope
+            field_type: condition_meter
+            max: 6
+            value: 2
+
+  subclasses:
+    name: Subclass Assets
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      stalwart:
+        name: Stalwart
+        type: asset
+        category: Subclass
+        _source:
+          <<: *Source
+        requirement: "Requires: Guardian"
+        abilities:
+          - name: "Foundation: Unwavering"
+            enabled: true
+            text: >-
+              [Foundation] _Unwavering:_ Reduce all harm you suffer by 1 (minimum 1).
+          - name: "Foundation: Iron Will"
+            enabled: true
+            text: >-
+              [Foundation] _Iron Will:_ When you suffer physical harm, you may suffer -1 supply to reduce the harm by 1 additional point.
+          - name: "Specialization: Unrelenting"
+            enabled: false
+            text: >-
+              [Specialization] _Unrelenting:_ Increase your harm reduction from Unwavering to 2 (minimum 1).
+          - name: "Specialization: Partners-in-Arms"
+            enabled: false
+            text: >-
+              [Specialization] _Partners-in-Arms:_ When an ally within close quarters suffers harm, you may suffer -1 supply to reduce their harm by 1.
+          - name: "Mastery: Undaunted"
+            enabled: false
+            text: >-
+              [Mastery] _Undaunted:_ Increase your harm reduction from Unwavering to 3 (minimum 1).
+          - name: "Mastery: Loyal Protector"
+            enabled: false
+            text: >-
+              [Mastery] _Loyal Protector:_ When an ally you can see has 2 or fewer health and would suffer harm, you may suffer -1 Spirit to rush to their side and suffer the harm instead.
+
+  blade_l1:
+    name: "Blade Domain (Level 1) - Guardian, Warrior"
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      get_back_up:
+        name: Get Back Up
+        type: asset
+        category: "Blade L1"
+        _source:
+          <<: *Source
+        requirement: "Blade Domain\nRecall: 1 momentum"
+        abilities:
+          - name: Get Back Up
+            enabled: true
+            text: >-
+              _Get Back Up:_ When you would suffer major harm (3+), you can suffer -1 Spirit to reduce the harm by 1.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+      not_good_enough:
+        name: Not Good Enough
+        type: asset
+        category: "Blade L1"
+        _source:
+          <<: *Source
+        requirement: "Blade Domain\nRecall: 1 momentum"
+        abilities:
+          - name: Not Good Enough
+            enabled: true
+            text: >-
+              _Not Good Enough:_ When you Strike or Clash and score a weak hit, you may reroll your action die.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+      whirlwind:
+        name: Whirlwind
+        type: asset
+        category: "Blade L1"
+        _source:
+          <<: *Source
+        requirement: "Blade Domain\nRecall: 0 momentum"
+        abilities:
+          - name: Whirlwind
+            enabled: true
+            text: >-
+              _Whirlwind:_ When you Strike or Clash in close quarters and score a hit, you can spend 1 Hope to mark progress an additional time (representing hitting multiple foes).
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+
+  valor_l1:
+    name: "Valor Domain (Level 1) - Guardian, Seraph"
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      bare_bones:
+        name: Bare Bones
+        type: asset
+        category: "Valor L1"
+        _source:
+          <<: *Source
+        requirement: "Valor Domain\nRecall: 0 momentum"
+        abilities:
+          - name: Bare Bones
+            enabled: true
+            text: >-
+              _Bare Bones:_ When you choose not to wear armor, add +1 when you React Under Fire against physical attacks.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+      forceful_push:
+        name: Forceful Push
+        type: asset
+        category: "Valor L1"
+        _source:
+          <<: *Source
+        requirement: "Valor Domain\nRecall: 0 momentum"
+        abilities:
+          - name: Forceful Push
+            enabled: true
+            text: >-
+              _Forceful Push:_ When you Strike in close quarters, on a hit you knock your target back and they are put in a bad spot. You may spend 1 Hope to mark progress an additional time.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+      i_am_your_shield:
+        name: I Am Your Shield
+        type: asset
+        category: "Valor L1"
+        _source:
+          <<: *Source
+        requirement: "Valor Domain\nRecall: 1 momentum"
+        abilities:
+          - name: I Am Your Shield
+            enabled: true
+            text: >-
+              _I Am Your Shield:_ When an ally within close quarters would suffer harm, you can suffer -1 Spirit to intercept the attack and suffer the harm instead. You may reduce this harm by 1.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+
+  blade_l2:
+    name: "Blade Domain (Level 2) - Guardian, Warrior"
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      a_soldiers_bond:
+        name: A Soldier's Bond
+        type: asset
+        category: "Blade L2"
+        _source:
+          <<: *Source
+        requirement: "Blade Domain\nRecall: 1 momentum\nRequires: Own at least one L1 Blade ability"
+        abilities:
+          - name: A Soldier's Bond
+            enabled: true
+            text: >-
+              _A Soldier's Bond:_ Once per session, when you compliment someone or ask them about something they're good at, you both gain 3 Hope.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+      reckless:
+        name: Reckless
+        type: asset
+        category: "Blade L2"
+        _source:
+          <<: *Source
+        requirement: "Blade Domain\nRecall: 1 momentum\nRequires: Own at least one L1 Blade ability"
+        abilities:
+          - name: Reckless
+            enabled: true
+            text: >-
+              _Reckless:_ Suffer -1 Spirit to add +2 on your next Strike or Clash.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+
+  valor_l2:
+    name: "Valor Domain (Level 2) - Guardian, Seraph"
+    type: asset_collection
+    _source:
+      <<: *Source
+    contents:
+      body_basher:
+        name: Body Basher
+        type: asset
+        category: "Valor L2"
+        _source:
+          <<: *Source
+        requirement: "Valor Domain\nRecall: 1 momentum\nRequires: Own at least one L1 Valor ability"
+        abilities:
+          - name: Body Basher
+            enabled: true
+            text: >-
+              _Body Basher:_ When you Strike in close quarters using your full body force, add +1 and take +1 momentum on a hit.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
+      bold_presence:
+        name: Bold Presence
+        type: asset
+        category: "Valor L2"
+        _source:
+          <<: *Source
+        requirement: "Valor Domain\nRecall: 0 momentum\nRequires: Own at least one L1 Valor ability"
+        abilities:
+          - name: Bold Presence
+            enabled: true
+            text: >-
+              _Bold Presence:_ When you Compel or make a social move, you may spend 1 Hope to add +Iron instead of the usual stat. Once per scene, when you would suffer a negative condition, describe how your bold presence aids you and ignore the condition.
+        controls:
+          loadout:
+            field_type: checkbox
+            label: loadout
+            value: false
