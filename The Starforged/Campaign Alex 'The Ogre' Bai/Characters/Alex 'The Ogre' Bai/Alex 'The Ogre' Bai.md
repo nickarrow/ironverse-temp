@@ -60,6 +60,7 @@ assets:
     options:
       name: Quinn
 description: "Once a strong decorated soldier. The Ogre has been cast aside by the ones he once protected.  Abandoned in his time of need and banished from his home. All because what started out as a spot on his left hand. That spot grew, grew into something terrible. Something that would not stop talking. Something that one day.. May just kill Alex. "
+initiative: false
 ---
 
 
