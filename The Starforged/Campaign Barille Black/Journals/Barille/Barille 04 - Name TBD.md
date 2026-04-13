@@ -13,10 +13,17 @@
 - The entity is fighting Hollodo, and now Barille is too. 
 -  `iv-move:Enter the Fray|Heart|5|3|0|10|6|move:starforged/combat/enter_the_fray` 
 	-  `iv-track-create:Save Hollodo from the entity|The Starforged/Campaign Barille Black/Progress/Barille/Save Hollodo from the entity.md`  `iv-initiative:Position|out of combat|in control` 
-	- This thing is still not *hard to see*, as though it is playing a trick on your mind. It is also fast, and  `iv-oracle:Creature First Look|54|Hideous|oracle_rollable:starforged/creature/first_look` 
+	- This thing is still *hard to see*, as though it is playing a trick on your mind. It is also fast, and  `iv-oracle:Creature First Look|54|Hideous|oracle_rollable:starforged/creature/first_look` 
 	- Attacks with bone spikes
 	- Barille draws his pistol and fires:  `iv-move:Strike|Edge|2|1|0|9|2|move:starforged/combat/strike` 
 		- `iv-track-advance:Save Hollodo from the entity|The Starforged/Campaign Barille Black/Progress/Barille/Save Hollodo from the entity.md|0|8|formidable|2`  `iv-initiative:Position|in control|in a bad spot` 
 	- Barille trying to dodge, but it is fast.  `iv-move:React Under Fire|Edge|5|1|0|8|6|move:starforged/combat/react_under_fire` 
 		-  `iv-meter:Health|3|1`  `iv-move:Endure Harm|Iron|5|2|0|8|10|move:starforged/suffer/endure_harm`  `iv-meter:Momentum|3|1` 
 		-  `iv-noroll:Take a Break|move:starforged/session/take_a_break`  `iv-ooc:Barille is going to come out swinging when I get back. ` 
+
+
+Nnn
+
+
+
+Fff
