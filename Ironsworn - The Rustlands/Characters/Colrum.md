@@ -3,11 +3,11 @@ name: Colrum
 xp_spent: 0
 xp_added: 0
 momentum: 2
-edge: 0
-heart: 0
-iron: 0
-shadow: 0
-wits: 0
+edge: 2
+heart: 3
+iron: 1
+shadow: 2
+wits: 2
 health: 5
 spirit: 5
 supply: 5
@@ -18,6 +18,14 @@ pronouns: He / Him
 callsign: Colrum
 description: "No more than twenty winters, the blonde haired waif seems to be frail. Looks however can be deceiving at best. "
 player: DanTen66
+assets:
+  - id: asset:classic/ritual/talisman
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
+    options: {}
 ---
 
 
