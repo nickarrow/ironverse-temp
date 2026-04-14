@@ -9,3 +9,5 @@ Working up Character - Colrum
 
 Vows: willing to work with others on long term vow and may leave vague for a while. I may worried but for a brief time yet. 
 
+Worked on assets and re-org of folder structure
+
