@@ -19,6 +19,20 @@ callsign: Colrum
 description: "No more than twenty winters, the blonde haired waif seems to be frail. Looks however can be deceiving at best. "
 player: DanTen66
 assets:
+  - id: asset:classic/combat_talent/skirmisher
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
+    options: {}
+  - id: asset:classic/path/wayfinder
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
+    options: {}
   - id: asset:classic/ritual/talisman
     abilities:
       - true
