@@ -44,7 +44,7 @@ assets:
     options: {}
   - id: asset:starforged/path/empath
     abilities:
-      - true
+      - false
       - false
       - false
     controls: {}
