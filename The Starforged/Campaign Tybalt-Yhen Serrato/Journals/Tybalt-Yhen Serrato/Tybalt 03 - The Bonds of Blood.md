@@ -156,7 +156,7 @@ ARMORY
 
 *"I suspect she was already drunk as he was by the time she started propositioning him.*" 
 
-"Dal-Karus input aside, why did you let him traipse off with her?"
+"Dal-Karus aside, why did you let him traipse off with her?"
 
 *"We...thought it would improve his attitude."*
 
@@ -165,3 +165,22 @@ ARMORY
 "Shut up, Paxel"
 *"Shut up, Paxel"*
 
+Pinching the bridge of his nose, Tybalt shelves the idea of asking for his counterpart’s help with the RU. “Well, it seems we both have sudden and urgent business to deal with.”
+
+“*You won’t come with me?*”
+
+“Do you want me to see you have to deal whith whatever humiliation Dal-Karus has brought upon your warband?”
+
+`iv-track-advance:Find where he stands with Epathus|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Find where he stands with Epathus.md|14|16|extreme|1` “*Point*.”
+
+“Who knows, perhaps you will have the sole glory of taking a pirate dreadnought by yourself?” Tybalt offers, in reference to an anonymous message he had received ([[Message 06 - Jett Foley]])
+
+“*Assuming I believe it more than some sailor’s tale?*” Epathus’ characteristic sneer was returning to his tone as the subject shifted “*No ship that survives by piracy can afford to match the firepower of a ship of equal tonnage connected to Founder Clan supply-lines. They will need an escort of at least a cruiser and three corvettes to even pose a challenge.*”
+
+“Cornered rats still have teeth.” Tybalt warns, even if it remains coloured by the very same arrogance that Epathus is displaying. “Now retrieve your gunner. I will catch up to you within a day I suspect.”
+
+By now, Tybalt’s armour was repaired and he moved now to address his Bannersworn that had assembled in the nearby hangar bay, and he asked Paxel a question as he made his way there.  `iv-move:Secure an Advantage|Wits|6|2|0|10|5|move:starforged/adventure/secure_an_advantage` 
+
+“Paxel, have your people had the time to
+
+`iv-move:Compel|Iron|6|3|1|2|2|move:starforged/adventure/compel|adds=1(Secure Advantage)`  `iv-meter:Momentum|4|5` 
