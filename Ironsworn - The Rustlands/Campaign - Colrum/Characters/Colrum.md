@@ -11,7 +11,7 @@ wits: 2
 health: 5
 spirit: 5
 supply: 5
-Bonds_Progress: 0
+Bonds_Progress: 1
 Bonds_XPEarned: 0
 iron-vault-kind: character
 pronouns: He / Him
@@ -54,6 +54,7 @@ assets:
 
 ```iron-vault-character-special-tracks
 ```
+[[Runswick]]
 
 ```iron-vault-character-impacts
 ```
