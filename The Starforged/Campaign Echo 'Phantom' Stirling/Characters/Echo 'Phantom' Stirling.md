@@ -8,9 +8,9 @@ heart: 2
 iron: 1
 shadow: 1
 wits: 3
-health: 3
+health: 5
 spirit: 5
-supply: 4
+supply: 2
 Quests_Progress: 0
 Quests_XPEarned: 0
 Bonds_Progress: 0

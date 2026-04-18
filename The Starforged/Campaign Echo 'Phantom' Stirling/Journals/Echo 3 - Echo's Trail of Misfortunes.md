@@ -124,29 +124,7 @@ The voice from Ground Control didn't seem too enthused about her request and she
 `iv-meter:Momentum|3|5` 
 ##### INT. EOS SPACEPORT 
 
-`iv-ooc:Is there an information desk of any kind at the spaceport?`  `iv-oracle:50/50|27|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
-`iv-oracle:Expanse|39|Dozens|oracle_rollable:starforged/settlement/population/expanse` 
+Echo had managed to park the Ilex-zed 
 
-Echo followed the signage to the information desk, surprised enough to find one in a settlement as sparsely populated as this.
-Of course, when she opened the door to the small cubicle, it became clear that this was a mix between a tourist shop and a temple library of some kind, more than a real information desk.
-Her eyes caught on a few of the book (real, paper books, even) titles present, the most prominent one being about an apparently prophesied threat soon to come.
-
-```
-DESK ATTENDANT
-May the Ones bring you peace! Are you here for the prophecy?
-
-ECHO
-What? Oh, you too! No, I'm just passing by, can you tell me where the medics are?  
-```
-
-`iv-ooc:Are there any advanced facilities?` `iv-oracle:50/50|39|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
-
-
-
->[!Note] About the settlement project
->Putting this here because I'm falling asleep and I want to remember!
->
->I'm imagining that in this settlement when they say "holy ground" they mean it literally, so....
->they're trying to slowly reassemble the pieces of the planet, because it's sacred to them! Cool!
->
->Also! Notes for the next few moves: they managed to spot the ilex-zed because of the weak hit, they're now going to be asking questions, and I'm imagining that in a place like this they might not be happy about necromancy, due to their religion.
+`iv-move:Secure an Advantage|Heart|6|2|0|3|10|move:starforged/adventure/secure_an_advantage` 
+`iv-move:Heal|Iron|4|1|1|4|7|move:starforged/recover/heal|adds=1`   `iv-meter:Supply|4|2`   `iv-meter:Health|3|5` 
