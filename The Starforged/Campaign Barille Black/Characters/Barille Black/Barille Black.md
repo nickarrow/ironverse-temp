@@ -48,7 +48,7 @@ FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
 initiative: false
 ---
-![[barille black profile.png|center|77]] 
+![[barille black profile.png|center|100]] 
 
 ```iron-vault-character-stats
 ```
