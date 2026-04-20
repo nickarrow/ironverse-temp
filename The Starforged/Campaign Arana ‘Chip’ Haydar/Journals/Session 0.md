@@ -8,4 +8,4 @@ track name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Establ
 
 ```
 
-The Congregation of Ethereal Paladins (commonly known as the Ethereals) has has started an outpost in
+The Congregation of Ethereal Paladins (commonly known as the Ethereals) has has started an outpost 
