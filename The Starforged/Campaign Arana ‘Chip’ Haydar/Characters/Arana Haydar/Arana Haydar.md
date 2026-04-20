@@ -57,7 +57,7 @@ assets:
     controls: {}
     options: {}
 ---
-
+![[Screenshot_2026-04-19_21-09-11.png]]
 
 ```iron-vault-character-info
 ```
