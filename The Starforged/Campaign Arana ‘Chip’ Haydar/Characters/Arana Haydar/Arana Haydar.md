@@ -22,7 +22,7 @@ FailureTrack_XPEarned: 0
 iron-vault-kind: character
 pronouns: Female
 callsign: Chip
-description: Arana Haydar was born on the planet Meridian within the repurposed Vault functioning as the central temple for the Congregation of the Ethereal Paladins. As the child of an Ethereal Knight and an Ethereal Paladin, Arana Haydar was raised within the strict traditions and disciplines of the Aether from childhood. She is now following in her parents footsteps, and is apprenticed to the Paladin, Luna Palmer.
+description: Arana Haydar was born on the planet Althea within the repurposed Vault functioning as the central temple for the Congregation of the Ethereal Paladins. As the child of an Ethereal Knight and an Ethereal Paladin, Arana Haydar was raised within the strict traditions and disciplines of the Aether from childhood. She is now following in her parents footsteps, and is apprenticed to the Paladin, Luna Palmer.
 assets:
   - id: asset:starforged/command_vehicle/starship
     abilities:
