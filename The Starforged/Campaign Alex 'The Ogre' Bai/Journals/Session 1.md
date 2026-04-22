@@ -10,4 +10,27 @@ Alex needs to get out of here, this was not what he signed up for.
 
 `iv-move:React Under Fire|Edge|2|2|0|2|3|move:starforged/combat/react_under_fire` 
 
-Alex is flying his best dodging fire and going as fast as he can he blasts out of the area of the asteroid cluster he was hiding in. He lost them for now. But it wont last long.  
+Alex is flying his best dodging fire and going as fast as he can he blasts out of the area of the asteroid cluster he was hiding in. He lost them for now. But it wont last long. He didn't even know how many were out there. How had they spotted him. This was getting bad fast. 
+
+>[!tip]- OOC
+>How many pirates are even here? 
+> Roll 1d6 = 6... sweet... got to love it
+>  Does Alex know how many there are, (Ask the Oracle) = Yes
+
+Six dots show up on the screen in front of Alex
+
+```
+Q- "Great Alex, We're dead."
+A- "Would you please shut up"
+```
+
+
+
+
+
+
+
+
+
+
+
