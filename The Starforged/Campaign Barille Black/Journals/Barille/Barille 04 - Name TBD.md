@@ -1,5 +1,8 @@
 # [[Barille 04 - Name TBD]]
 
+> [!TIP]- Barille Black
+> ![[Barille Black]]
+
 ## Session Notes
 -  `iv-noroll:Begin a Session|move:starforged/session/begin_a_session` 
 	- Met [[Rowena Jensen]] - source of the vow
