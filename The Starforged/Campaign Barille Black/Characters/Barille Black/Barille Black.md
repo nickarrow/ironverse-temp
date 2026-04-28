@@ -47,6 +47,10 @@ assets:
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
 initiative: false
+callsign: Black
+pronouns: He/Him
+player: NickArrow
+description: "Often wearing his dark blue suit, loosened at the neck. Barille has dark curly hair, and the stubble of a beard. Character goal: Gain Riches, Seek Power."
 ---
 ![[barille black profile.png|center|100]] 
 
