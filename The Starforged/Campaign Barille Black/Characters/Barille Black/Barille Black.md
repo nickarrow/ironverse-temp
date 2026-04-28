@@ -51,12 +51,15 @@ initiative: false
 ![[barille black profile.png|center|100]] 
 
 ```iron-vault-character-stats
+The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 ```
 
 ```iron-vault-character-meters
+The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 ```
 > [!assets]- ASSETS
 > ```iron-vault-character-assets
+> The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > ```
 
 > [!gear]- GEAR
@@ -96,10 +99,12 @@ initiative: false
 
 > [!impacts]- IMPACTS
 > ```iron-vault-character-impacts
+> The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > ```
 
 > [!legacies]- LEGACIES
 > ```iron-vault-character-special-tracks
+> The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > ```
 
 > [!complete]- TRACKS COMPLETED
