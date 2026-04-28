@@ -26,6 +26,13 @@ assets:
       - false
     controls: {}
     options: {}
+  - id: asset:starforged/path/bounty_hunter
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
+    options: {}
   - id: asset:starforged/support_vehicle/snub_fighter
     abilities:
       - true
@@ -37,13 +44,6 @@ assets:
       2/victory_marks: 0
     options:
       name: SN27
-  - id: asset:starforged/path/bounty_hunter
-    abilities:
-      - true
-      - false
-      - false
-    controls: {}
-    options: {}
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
 initiative: false
