@@ -1,8 +1,5 @@
 # [[Barille 04 - Name TBD]]
 
-> [!TIP]- Barille Black
-> ![[Barille Black]]
-
 ## Session Notes
 -  `iv-noroll:Begin a Session|move:starforged/session/begin_a_session` 
 	- Met [[Rowena Jensen]] - source of the vow
@@ -24,3 +21,4 @@
 		-  `iv-meter:Health|3|1`  `iv-move:Endure Harm|Iron|5|2|0|8|10|move:starforged/suffer/endure_harm`  `iv-meter:Momentum|3|1` 
 		-  `iv-noroll:Take a Break|move:starforged/session/take_a_break`  `iv-ooc:Barille is going to come out swinging when I get back. ` 
 - Picking this back up
+
