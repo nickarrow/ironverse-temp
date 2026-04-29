@@ -23,6 +23,42 @@ iron-vault-kind: character
 callsign: Chimera
 pronouns: She/her
 player: Faithgel
+assets:
+  - id: asset:sundered_isles/command_vehicle/flagship
+    abilities:
+      - true
+      - false
+      - false
+    controls:
+      integrity: 5
+      integrity/battered: false
+      integrity/cursed: false
+      supply: 5
+      supply/unequipped: false
+    options:
+      name: The Leviathan of the Ether
+  - id: asset:sundered_isles/path/pistoleer
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
+    options: {}
+  - id: asset:sundered_isles/path/swashbuckler
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
+    options: {}
+  - id: asset:sundered_isles/path/windbinder
+    abilities:
+      - true
+      - false
+      - false
+    controls:
+      winds:
+    options: {}
 ---
 
 
