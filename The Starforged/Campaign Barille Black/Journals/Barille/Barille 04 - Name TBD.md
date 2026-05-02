@@ -1,3 +1,6 @@
+---
+aliases:
+---
 # [[Barille 04 - Name TBD]]
 
 ## Session Notes
