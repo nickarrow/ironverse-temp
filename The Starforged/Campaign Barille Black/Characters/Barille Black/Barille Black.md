@@ -53,17 +53,17 @@ player: NickArrow
 description: "Often wearing his dark blue suit, loosened at the neck. Barille has dark curly hair, and the stubble of a beard. Character goal: Gain Riches, Seek Power."
 ---
 ![[barille black profile.png|center|100]] 
-
+# Stats 
 ```iron-vault-character-stats
-The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 ```
 
+# Meters
 ```iron-vault-character-meters
-The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 ```
+
+# Assets
 > [!assets]- ASSETS
 > ```iron-vault-character-assets
-> The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > ```
 
 > [!gear]- GEAR
@@ -103,12 +103,10 @@ The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 
 > [!impacts]- IMPACTS
 > ```iron-vault-character-impacts
-> The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > ```
 
 > [!legacies]- LEGACIES
 > ```iron-vault-character-special-tracks
-> The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > ```
 
 > [!complete]- TRACKS COMPLETED
